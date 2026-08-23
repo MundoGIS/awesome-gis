@@ -127,6 +127,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [LAStools](https://rapidlasso.de/product-overview/) -  A collection of 52 highly efficient, batch-scriptable, multicore command-line tools for processing point clouds. The tools can also be run via a native GUI (laslook) and are available as toolboxes (QGIS, ArcGIS Pro, FME, Erdas)
 
 ## Web Map Servers
+- [Qtiler](https://github.com/MundoGIS/Qtiler) - Publish WMTS, WMS, WFS, and full 2D/3D web maps directly from QGIS Desktop. Features a 2-minute installation optimized for Windows environments.
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
 - [Baremaps](https://www.baremaps.com/) -  Apache Baremaps is a toolkit and a set of infrastructure components for creating, publishing, and operating online maps.
 - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
