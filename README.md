@@ -115,6 +115,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
 
 ## 3D Applications
+- [MGIS-3D-Planner](https://github.com/MundoGIS/mgis-3d-planner) - A powerful Cesium-based 3D digital twin platform for urban planning and renewable energy, featuring advanced measurement, drawing, and environmental simulation tools.
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Allows you to explore any part of the world. Work with a variety of 3D and 2D map data formatt, including KML. Display data, sketch placemarks, measure and perform interactive analysis, and add annotations.
 - [Beholder](https://beholder.me) - Real-time OSINT threat intelligence map with WebGPU/CesiumJS 3D globe, aggregating 30+ data sources including aircraft, vessels, satellites, earthquakes, conflict, and cyber threats.
 - [CityEngine](http://www.esri.com/software/cityengine/) - Advanced 3D modeling software.
